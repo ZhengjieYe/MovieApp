@@ -1,4 +1,4 @@
-# Assignment 1 - ReactJS app.
+# ReactJS app.
 
 Name: ZhengjieYe 
 
